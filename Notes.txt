@@ -1,0 +1,51 @@
+npx create-react-app        // to create react app
+
+cd app          // to connect new app
+
+npm start        // to start app
+
+npm run build         //Note that the development build is not optimized. To create a production build
+
+npm install react-router-dom        // to install react-router
+
+https://materializecss.com/         // css styles
+
+npm install redux react-redux        // to install redux
+
+npm install redux-thunk            // to install thunk
+
+npm install firebase          // to install firebase
+
+npm install -g firebase-tools         // To host your site with Firebase Hosting, you need the Firebase CLI
+
+//to change Get-ExecutionPolicy Restricted into RemoteSigned
+run powershell administrator -> PS C:\Windows\system32> Set-ExecutionPolicy -> RemoteSigned
+
+firebase login        // to log in firebase
+
+npm run build           // to run build
+
+firebase init           // to set firebase project
+
+firebase deploy        // to deploy hosting for project
+
+npm install react-redux-firebase redux-firestore        // for Connecting Redux to Firebase
+
+
+npm uninstall react-redux react-redux-firebase , and then your two:
+npm -i react-redux@5.1.1
+npm -i react-redux-firebase@2.2.4
+
+momentjs.com         // for date and time method
+
+npm install moment          // to create method for date and time
+
+firebase login         // to login in firebase using terminal
+
+firebase init        // to initialize firebase using terminal
+
+firebase deploy --only functions         // deploy only the functions
+
+npm run build        // to build project
+
+firebase deploy        // to deploy project
